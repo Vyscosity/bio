@@ -1,0 +1,226 @@
+--- SLIDE 1 ---
+Ecology
+
+
+--- SLIDE 2 ---
+Ecology
+Levels of 
+Organization
+
+Ecology focuses on the dynamics at the population and ecosystem levels
+
+
+--- SLIDE 3 ---
+Ecology: Population Dynamics
+Population ecology is the study of how and why populations change
+A population is a group of individuals of a single species that occupy the same general area
+0
+
+
+--- SLIDE 4 ---
+Ecology: Population Dynamics
+Environmental and social factors influence the spacing of individuals in various dispersion patterns: clumped, uniform, or random
+0
+
+
+--- SLIDE 5 ---
+Ecology: Population Dynamics
+Populations change over time as a combination of the birth rate and the mortality rate.
+Exponential growth is the accelerating increase that occurs when growth is unlimited.  The equation G  rN describes this J-shaped curve
+G  the population growth rate
+r  an organism’s inherent capacity to reproduce
+N  the population size
+0
+
+
+--- SLIDE 6 ---
+Ecology: Population Dynamics
+Limiting factors are variables that restrict population growth such as limited space, food, water or the ability of the ecosystem to process waste from a population. 
+
+The equation G  rN(K – N)/K describes a logistic growth curve where 
+K  carrying capacity
+
+Carrying Capacity is the size of the population that can be sustainably supported by the environment.
+0
+
+
+--- SLIDE 7 ---
+0
+Ecology: Population Dynamics
+Human Population Growth
+Link to Human Population Distribution Map
+Link to Current World Population
+
+
+--- SLIDE 8 ---
+Ecology: Population Dynamics
+An ecological footprint is the impact of a person or community on the environment, expressed as the amount of land required to sustain their use of natural resources.
+
+
+--- SLIDE 9 ---
+Ecology: Population Dynamics
+The ecological footprint of a nation differs across the globe.
+0
+
+
+--- SLIDE 10 ---
+Ecology: Community Dynamics
+A biological community is an assemblage of all the populations of organisms living close enough together for potential interaction
+0
+
+
+--- SLIDE 11 ---
+Ecology: Community Dynamics
+Competition
+
+
+--- SLIDE 12 ---
+Ecology: Community Dynamics
+Predation
+
+
+--- SLIDE 13 ---
+Ecology: Community Dynamics
+Symbiosis
+A symbiotic relationship is an interaction between two or more species that live together in direct contact
+0
+
+
+--- SLIDE 14 ---
+Ecology: Community Dynamics
+Symbiosis: mutualism
+Association between Acacia and ants:
+Ants live in hollow thorns.
+Ants feed on sugar, fats and proteins from petiolar nectaries and from special bodies at tips of leaflets.
+Ants attack other organisms that come into contact with plant.
+
+
+--- SLIDE 15 ---
+Ecology: Community Dynamics
+Symbiosis: mutualism
+
+
+--- SLIDE 16 ---
+Ecology: Community Dynamics
+Symbiosis: Parasitism
+
+
+--- SLIDE 17 ---
+Ecology: Community Dynamics
+Symbiosis: Commensalism
+
+
+--- SLIDE 18 ---
+Ecology: Ecosystem Dynamics
+Trophic structures can be represented by food chains
+
+
+
+
+
+
+
+
+
+
+Decomposers: fungi and bacteria decompose waste matter and recycle nutrients in ecosystems
+
+
+--- SLIDE 19 ---
+Ecology: Ecosystem Dynamics
+Energy moves into an ecosystem in the form of sunlight captured by photosynthesizers and out in the form of heat.
+
+
+--- SLIDE 20 ---
+Ecology: Ecosystem Dynamics
+Energy supply limits the length of food chains
+A pyramid of production shows the flow of energy from producers to primary consumers and to higher trophic levels
+0
+
+
+--- SLIDE 21 ---
+Ecology: Ecosystem Dynamics
+A production pyramid explains why meat is a luxury for humans
+A field of corn can support many more human vegetarians than meat-eaters
+0
+
+
+--- SLIDE 22 ---
+Ecology: Ecosystem Dynamics
+Primary production sets the energy budget for ecosystems
+Primary production is the rate at which producers convert sunlight to chemical energy in organic matter, or biomass
+
+
+--- SLIDE 23 ---
+Ecology: Ecosystem Dynamics
+
+
+--- SLIDE 24 ---
+Ecology: Ecosystem Dynamics
+David Latimer and his 60 year old terrarium.
+
+
+--- SLIDE 25 ---
+Ecology: Ecosystem Dynamics
+Chemicals are recycled between organic matter and abiotic reservoirs
+0
+Wolves in Yellowstone
+
+
+--- SLIDE 26 ---
+Ecology: Ecosystem Dynamics
+The water cycle:
+
+
+--- SLIDE 27 ---
+Ecology: Ecosystem Dynamics
+The carbon cycle
+Variables influencing climate change.
+
+
+--- SLIDE 28 ---
+Ecology: Ecosystem Dynamics
+The nitrogen cycle:
+
+
+--- SLIDE 29 ---
+Ecology: Disturbance
+Disturbance is a prominent feature of most communities
+Disturbances are events that damage biological communities, remove organisms from them, and alter the availability of resources are characteristic of most communities
+0
+
+
+--- SLIDE 30 ---
+Ecology: Succession
+Ecological succession
+Is a transition in species composition of a community following a disturbance
+0
+
+
+--- SLIDE 31 ---
+Ecology: Succession
+Primary succession
+Is the gradual colonization of barren rocks
+Secondary succession
+Occurs after a disturbance has destroyed a community but left the soil intact
+0
+
+
+--- SLIDE 32 ---
+Ecology: Succession
+Primary succession - Involves formation of soil in beginning stages
+On bare rocks and lava:
+Tiny cracks permit plants to invade.
+Fern spores blow into cracks of bare lava
+
+
+--- SLIDE 33 ---
+Ecology: Succession
+Primary succession:
+On bare rocks and lava:
+Lichens and mosses become established on surfaces.
+Contribute to organic matter and small amount of soil builds up
+Other species become established.
+As soil buildup continues, larger plants take over.
+Eventually vegetation reaches equilibrium of a stable plant community = climax community. 
+Communities can differ in response to available species and chance events.
